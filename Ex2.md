@@ -191,21 +191,22 @@ select max(salary) from manager;
 
 ![WhatsApp Image 2023-09-29 at 20 44 50](https://github.com/niraunjana/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119395610/79969fb2-5c38-4ea7-9dbd-7b279efcf6b4)
 
-### AVERAGE :
-
-select avg(salary) from manager;
-
-### OUTPUT :
-
-![WhatsApp Image 2023-09-29 at 20 45 46](https://github.com/niraunjana/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119395610/8c91e482-34f7-4a51-bbf1-a243186eecae)
-
 ### MINIMUM :
 
 select min(salary) from manager;
 
 ### OUTPUT :
 
-![WhatsApp Image 2023-09-29 at 20 45 20](https://github.com/niraunjana/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119395610/cb510aa7-6bd2-47f0-b616-79e9ca07e06a)
+![WhatsApp Image 2023-09-29 at 20 45 20](https://github.com/niraunjana/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119395610/1eab398c-92cc-41b9-9b62-87109b85da16)
+
+
+### AVERAGE :
+
+select avg(salary) from manager;
+
+### OUTPUT :
+
+![WhatsApp Image 2023-09-29 at 20 45 46](https://github.com/niraunjana/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119395610/69083fa0-1fb9-4397-85bb-08369908ed40)
 
 
 
